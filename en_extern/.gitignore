@@ -1,0 +1,6 @@
+result.*
+a.out
+tmp*
+pango_test2.txt
+*.o
+*.ps
